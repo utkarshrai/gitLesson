@@ -1,5 +1,5 @@
 def eat(n):
-	print("I eat "+n)
+	print("I ate that fucking "+n)
 
-a=input("What do you eat? ")
+a=input("What did you eat motherfucker? ")
 eat(a)
