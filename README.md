@@ -7,7 +7,7 @@ If you get this output you are god to go to the next step.
 ![alt text](https://user-images.githubusercontent.com/20010355/32362090-626848da-c05e-11e7-9da2-7e6345d5c021.png)
 
 ## Forking
-Fork this repo into your own github acounts. Notice how you can switch through different branches in your own fork. Also notice the issues and pull requests section. 
+Fork this repo into your own github accounts. Notice how you can switch through different branches in your own fork. Also notice the issues and pull requests section. 
 
 ## Fix my issue on your fork
 A simple casting error. If you do not know python at all, ask someone around. str() is used for casting to string.
